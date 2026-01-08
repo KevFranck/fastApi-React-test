@@ -1,0 +1,17 @@
+
+# FastAPI
+backend/fastapivenv/
+__pycache__/
+*.pyc
+
+
+#React
+frontend/node_modules/
+
+
+#Env
+.env
+
+
+#VS Code
+.vscode/
